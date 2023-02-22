@@ -6,13 +6,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/longshotlabs/simpl-schema.git",
+    "url": "https://github.com/l3mpire/simpl-schema.git",
     "directory": "package"
   },
   "bugs": {
-    "url": "https://github.com/longshotlabs/simpl-schema/issues"
+    "url": "https://github.com/l3mpire/simpl-schema/issues"
   },
-  "homepage": "https://github.com/longshotlabs/simpl-schema",
+  "homepage": "https://github.com/l3mpire/simpl-schema",
   "type": "module",
   "files": [
     "dist",
